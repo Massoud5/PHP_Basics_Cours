@@ -5,27 +5,28 @@
 
 ### What I learned:
 
-#### DECLARATION DE VARIABLES
+#### VARIABLE DECLARATIONS 
 
-#### AFFICHAGE
+#### DISPLAY
 
-#### FONCTIONS CHAINES DE CARACTERES
+#### STRING FUNCTIONS 
 - Compter le nombre de caractères
 - Compter le nombre de mots
 
-#### FONCTIONS TABLEAUX
+#### ARRAY FUNCTIONS
 
-#### OPERATIONS MATHEMATIQUES
+#### MATHS OPERATIONS 
 
-#### STRUCTURES DE CONTROLE
+#### STRUCTURE CONTROLES
 - Conditions (IF = SI)
 - Ternaire
 - FOREACH
 
-#### BOUCLES
+#### LOOPS
 - FOR (pour)
 - WHILE (tant que)
 
-#### TABLEAUX ASSOCIATIFS
+#### ASSOCIATIVE ARRAY
+- Store key value pairs
 
-#### FONCTIONS
+#### FUNCTIONS
